@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://gpt0123.github.io/$1"}
+    {"source": "/(.*)", "destination": "https://py.c1ns.cn/$1"}
   ]
 }
