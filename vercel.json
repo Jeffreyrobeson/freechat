@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://py.c1ns.cn/$1"}
+    {"source": "/(.*)", "destination": "https://p1.v50.ltd/$1"}
   ]
 }
